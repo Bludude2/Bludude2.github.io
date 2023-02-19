@@ -21,7 +21,7 @@ Guitar Hero/RB Section:
 *Forget about clone hero and use this instead, you can import songs from clone hero into the game too!*
 
 > [Guitar Hero 2 Deluxe(PS2)](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe)
-> *if you're having troubles with setting this up, alec has a good video on this for pcsx2!. I might make a text tutorial here if i can but for now use [alec's video here:](https://www.youtube.com/watch?v=LJ8JIMBVBmE&t=378s)*
+> *if you're having troubles with setting this up, alec has a good video on this for pcsx2!. I might make a text tutorial here if i can but for now use [alec's video here](https://www.youtube.com/watch?v=LJ8JIMBVBmE&t=378s)*
 > *you're gonna need PCSX2 Nightly - 1.7.3771 if you're gonna play using keyboard (its really old but its the only latest build that has Guitar controller emulation)*
 
 > [Guitar Hero 2 Deluxe (X360)](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360)
