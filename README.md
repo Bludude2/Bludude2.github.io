@@ -5,9 +5,9 @@
 
 
 
-W.I.P stuff:
+W.I.P stuff: (May get finished, may get abandoned)
 
-> [Guitar Hero 2 Deluxe PCSX2 Tutorial](docs/README.md)
+> [Guitar Hero 2 Deluxe PCSX2 Tutorial](docs/README.md) *Spent 3 hours making this, Had a pretty good streak going but then realized acai already made a simple enough tutorial. so i might just leave this for now*
 
 
 
