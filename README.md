@@ -5,7 +5,9 @@
 
 
 
+W.I.P stuff:
 
+> [Guitar Hero 2 Deluxe PCSX2 Tutorial](docs/README.md)
 
 
 
