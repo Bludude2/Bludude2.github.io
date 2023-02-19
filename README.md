@@ -22,12 +22,12 @@ Guitar Hero/RB Section:
 
 > [Guitar Hero 2 Deluxe(PS2)](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe)
 > *if you're having troubles with setting this up, alec has a good video on this for pcsx2!. I might make a text tutorial here if i can but for now use [alec's video here:](https://www.youtube.com/watch?v=LJ8JIMBVBmE&t=378s)*
-> *you're gonna need PCSX2 Nightly - 1.7.3771 (its really old but its the only latest build that has Guitar controller emulation)*
+> *you're gonna need PCSX2 Nightly - 1.7.3771 if you're gonna play using keyboard (its really old but its the only latest build that has Guitar controller emulation)*
 
 > [Guitar Hero 2 Deluxe (X360)](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360)
 *EVERYTHING YOU NEED IS IN THE REPO, FOLLOW THE INSTRUCTIONS TO BUILD*
 
-> [Lego Rockband Deluxe (WIP)](https://github.com/hmxmilohax/lego-rock-band-deluxe)
+> [Lego Rockband Deluxe (WIP)](https://github.com/hmxmilohax/lego-rock-band-deluxe) *When i heard this get released 2 weeks ago as of writing. i immediately checked it out. I haven't got the storage to perform a test (17 gigabytes left 😭) i really need a new ssd.*
 
 
 
@@ -39,7 +39,7 @@ Tony Hawk Section:
 *I played this for about 2 days, its a fun game. Love the game to heart <3*
 
 > [ReTHAWED](https://rethawed.webflow.io/)
-*Spent a whole week on this, its really fun playing it off an PlayStation 2. Different vibe. Would recommend 100%*
+*Spent a whole week on this, its really fun playing it outside an PlayStation 2. Different vibe. Would recommend 100%*
 
 
 
