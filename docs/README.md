@@ -12,5 +12,5 @@ IF you already have the required files downloaded and the two dependencies insta
 it should start building 
 ![cmd_PGdrNgEBUf](https://user-images.githubusercontent.com/75001880/219971637-41c0e9f6-0b5d-4f17-8973-e10c1ef3257d.png)
 
-# Lazy mode
-https://www.youtube.com/watch?v=LJ8JIMBVBmE
+# [Lazy mode](https://www.youtube.com/watch?v=LJ8JIMBVBmE)
+Yeah i think you're lazy enough to follow alec's tutorial. Good luck and have fun shredding!
