@@ -77,13 +77,18 @@ Emulators i currently use:
 *This Emulator is also experimental and in-Development so please bear in mind that although it may have graphical issues/bugs. This is a good emulator. therefore no, this will not run in your toaster.*
 
 
+Useful Tutorials for Guitar Hero World Tour Definitive Edition:
 
+> Keybinds for keyboard:
+⌨️ **To change keyboard bindings, follow this link:** https://shubhammistry.blogspot.com/2015/03/guitar-hero-world-tour-an.html
 
+>Stuttery Audio Fix: 
+*I did not find this fix, this was found by N64EVER on the GHWTDE Discord Server*
 
+**Go to your Guitar Hero World Tour installation folder and right-click GHWT_Definitive.exe and select properties.**
 
-
-
-
+> Go to the Compatibility tab and set the compatibility mode to Windows XP (SP 3) 
+**See if it works (MAKE SURE YOU HAVEN'T ADDED THE 'FIX' IN THE Aspyrconfig.xml file)**
 
 
 
