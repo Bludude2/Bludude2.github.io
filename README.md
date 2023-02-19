@@ -1,7 +1,7 @@
 # Blu's personal locker
 
 ## Simple github.io site i made for myself and some curious stalkers on my discord profile :)
-
+dody is god, remember that.
 
 
 
