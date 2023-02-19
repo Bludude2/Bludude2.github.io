@@ -79,7 +79,7 @@ Emulators i currently use:
 
 Useful Tutorials for Guitar Hero World Tour Definitive Edition:
 
-> Keybinds for keyboard:
+###### Keybinds for keyboard:
 ⌨️ **To change keyboard bindings, follow this link:** https://shubhammistry.blogspot.com/2015/03/guitar-hero-world-tour-an.html
 
 >Stuttery Audio Fix: 
