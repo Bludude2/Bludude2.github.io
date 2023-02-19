@@ -80,7 +80,8 @@ Emulators i currently use:
 Useful Tutorials for Guitar Hero World Tour Definitive Edition:
 
 ###### Keybinds for keyboard:
-⌨️ **To change keyboard bindings, follow this link:** https://shubhammistry.blogspot.com/2015/03/guitar-hero-world-tour-an.html
+⌨️ **To change keyboard bindings, follow this link:** [https://shubhammistry.blogspot.com/2015/03/guitar-hero-world-tour-an.html](https://shubhammistry.blogspot.com/2015/03/guitar-hero-world-tour-an.html
+)
 
 >Stuttery Audio Fix: 
 *I did not find this fix, this was found by N64EVER on the GHWTDE Discord Server*
