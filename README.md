@@ -27,7 +27,8 @@ Guitar Hero/RB Section:
 > [Guitar Hero 2 Deluxe (X360)](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360)
 *I found this easier to build than the PS2 Version. Good luck if you're gonna build it.*
 
-> [Lego Rockband Deluxe (WIP)](https://github.com/hmxmilohax/lego-rock-band-deluxe) *When i heard this get released 2 weeks ago as of writing. i immediately checked it out. I haven't got the storage to perform a test (17 gigabytes left 😭) i really need a new ssd.*
+> [Lego Rockband Deluxe (WIP)](https://github.com/hmxmilohax/lego-rock-band-deluxe) 
+*Lego RB is a good game, This just made it better*
 
 
 
