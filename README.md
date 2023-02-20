@@ -1,6 +1,6 @@
 # Blu's personal locker
 
-## leftover chicken can be good but when it tastes like shit, THROW IT OUT
+## it was "you cant just say that without prior context" before it becomes 6:50 -roo
 
 
 
