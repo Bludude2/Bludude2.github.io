@@ -1,7 +1,7 @@
 # Blu's personal locker
 
-## Simple github.io site i made for myself and some curious stalkers on my discord profile :)
-dody is god, remember that.
+## leftover chicken can be good but when it tastes like shit, THROW IT OUT
+
 
 
 
@@ -18,14 +18,14 @@ W.I.P stuff: (May get finished, may get abandoned)
 Guitar Hero/RB Section: 
 
 > [Guitar Hero World Tour Definitive Edition](https://ghwt.de)
-*Forget about clone hero and use this instead, you can import songs from clone hero into the game too!*
+*Clone Hero finished cooking, shits still raw. The GHWTDE team is cooking EVERYDAY!*
 
 > [Guitar Hero 2 Deluxe(PS2)](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe)
 > *if you're having troubles with setting this up, alec has a good video on this for pcsx2!. I might make a text tutorial here if i can but for now use [alec's video here](https://www.youtube.com/watch?v=LJ8JIMBVBmE&t=378s)*
 > *you're gonna need PCSX2 Nightly - 1.7.3771 if you're gonna play using keyboard (its really old but its the only latest build that has Guitar controller emulation)*
 
 > [Guitar Hero 2 Deluxe (X360)](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360)
-*EVERYTHING YOU NEED IS IN THE REPO, FOLLOW THE INSTRUCTIONS TO BUILD*
+*I found this easier to build than the PS2 Version. Good luck if you're gonna build it.*
 
 > [Lego Rockband Deluxe (WIP)](https://github.com/hmxmilohax/lego-rock-band-deluxe) *When i heard this get released 2 weeks ago as of writing. i immediately checked it out. I haven't got the storage to perform a test (17 gigabytes left 😭) i really need a new ssd.*
 
@@ -74,7 +74,7 @@ Emulators i currently use:
 *Since i mostly use this for emulating guitar hero games, I do not have prior experience emulating other games like Open-World games and such. You may find gameplay videos in youtube. Bear in mind this emulator is very cpu dependant.*
 
 > [RPCS3](https://rpcs3.net/)
-*This Emulator is also experimental and in-Development so please bear in mind that although it may have graphical issues/bugs. This is a good emulator. therefore no, this will not run in your toaster.*
+*Real good Emulator, Needs a sub-optimal pc to run it.*
 
 
 Useful Tutorials for Guitar Hero World Tour Definitive Edition:
@@ -90,8 +90,7 @@ Useful Tutorials for Guitar Hero World Tour Definitive Edition:
 
 > Go to the Compatibility tab and set the compatibility mode to Windows XP (SP 3) 
 **See if it works (MAKE SURE YOU HAVEN'T ADDED THE 'FIX' IN THE Aspyrconfig.xml file)**
-
-
+sometimes the fix resets so just make sure its always set to Windows XP SP3
 
 
 
