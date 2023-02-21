@@ -17,4 +17,4 @@ Yeah i think you're lazy enough to follow alec's tutorial. Good luck and have fu
 
 
 
-[Go back to the main page](Bludude2.github.io/blob/main/README.md)
+[Go back to the main page](https://bludude2.github.io/)
