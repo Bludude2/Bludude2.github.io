@@ -14,3 +14,7 @@ it should start building
 
 # [Lazy mode](https://www.youtube.com/watch?v=LJ8JIMBVBmE)
 Yeah i think you're lazy enough to follow alec's tutorial. Good luck and have fun shredding!
+
+
+
+[Go back to the main page](main/README.md)
