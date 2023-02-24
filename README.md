@@ -1,13 +1,13 @@
 # Blu's personal locker
 
-## it was "you cant just say that without prior context" before it becomes 6:50 -roo
+## Public Domain, ain't no way
 
 
 
 
 W.I.P stuff: (May get finished, may get abandoned)
 
-> [Guitar Hero 2 Deluxe PCSX2 Tutorial](guitarhero2deluxetut/README.md) *Spent 3 hours making this, Had a pretty good streak going but then realized acai already made a simple enough tutorial. so i might just leave this for now*
+*wow, so clean. not even a single entry.*
 
 
 
