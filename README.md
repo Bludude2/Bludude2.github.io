@@ -16,3 +16,4 @@ Spotify: [beeg boy spotify link ](https://open.spotify.com/user/p4w4z3um7wkkuj6n
 
 Steam: [https://steamcommunity.com/id/awesomniumblu/](https://steamcommunity.com/id/awesomniumblu/)
 
+![image-6-0](https://user-images.githubusercontent.com/75001880/233040218-8188b4c3-b917-4cf6-8fac-9364bcf82171.png)
