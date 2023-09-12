@@ -7,13 +7,7 @@
 
 
 
-Main Channel:
-[Blu](https://www.youtube.com/@blu-rred/featured)
+Website under Cock and Ball Torture. Please return some other time..
 
-Second Channel: [sens](https://www.youtube.com/@sensitivedbd/videos)
 
-Spotify: [beeg boy spotify link ](https://open.spotify.com/user/p4w4z3um7wkkuj6n85q5lwj8e?si=a85567a9babb4dcb)
-
-Steam: [https://steamcommunity.com/id/awesomniumblu/](https://steamcommunity.com/id/awesomniumblu/)
-
-![image-6-0](https://user-images.githubusercontent.com/75001880/233040218-8188b4c3-b917-4cf6-8fac-9364bcf82171.png)
+![679944822835904532](https://github.com/Bludude2/Bludude2.github.io/assets/75001880/4fccb522-64d8-40cb-961a-233d0bceae1b)
